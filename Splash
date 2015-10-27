@@ -1,1 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+  <h1>Red Images</h1>
+  <a href="  <a href="http://kelewis93.github.io/Portfolio/splash">Home</a>
+                                                                  <a href="http://kelewis93.github.io/Portfolio/Resumes">Resume</a>
+                                                                                                                        <a href="http://kelewis93.github.io/Portfolio/contact">Contact</a>
+                                                                                                          
+
+  <p>Created by Kristen Lewis</p> 
+
+</body>
+</html>
