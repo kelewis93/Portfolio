@@ -7,17 +7,21 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <h1>Kristen Lewis</h1>
-    <img src="11041156_10153455095602162_5498959073686718697_n.jpg" alt="Profile" style="width;740px;height:528px;"></img src>
-    
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Portfolio</title>
+      <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+      <h1>Kristen Lewis</h1>
+      <img href="11179977_10153256061597162_7175665450637141668_n.jpg"alt="Self"style="width:200px;height:200px;">
+      <a href="  <a href="http://kelewis93.github.io/Portfolio/splash">Home</a>                                                                   <a href="http://kelewis93.github.io/Portfolio/Resumes">Resume</a>
+                                                                                                                         <a href="http://kelewis93.github.io/Portfolio/contact">Contact</a>
 
-    
-    <a href="  <a href="http://kelewis93.github.io/Portfolio/splash">Home</a>
-                                                                    <a href="http://kelewis93.github.io/Portfolio/Resumes">Resume</a>
-                                                                                                                          <a href="http://kelewis93.github.io/Portfolio/contact">Contact</a>
+  <a href="http://kelewis93.github.io/Portfolio/Images">Images</a>
 
 
-  <p>Created by Kristen Lewis</p> 
+                                                       <p>Created by Kristen Lewis</p> 
 
-</body>
-</html>
+                                                       </body>
