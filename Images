@@ -1,2 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kristen Lewis</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+  <h1>Kristen Lewis</h1>
+  <h2>
+    Homecoming Queen
+  </h2>
+  <img src="C2.jpg" alt="Homecoming Queen" style="width:204px;height:228px;">
+  
+
+  <p>Kelsey Hosea wins Homecoming Queen at Eastern Illinois Univerity for 2015.  </p>
+
+</body>
+</html>
 
