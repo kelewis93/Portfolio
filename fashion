@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Couture Models</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Fashionistas</h1>
+  <h2>
+    Couture Models
+  </h2>
+  <ul>
+    
+    <li><a href="index.html">Home</a></li>
+    <li><a href="moba.html">Moba</a></li>
+    <li><a href="platform.html">Platform</a></li>
+    <li><a href="comic.html">Comic</a></li>
+    <li><a href="pride.html">Pride</a></li>
+    <li><a href="magic.html">Magic</a></li>
+  </ul>
+  <p>
+    <a href="http://www.eiu.edu/slo/rso/rso_info.php?id=297">Couture Models</a> was created at Southern Illinois University Edwardsville in 2013. Jalen Washington and DeVante Dixon brought the orginazation to Eastern Illinois University in 2014 after transferring schools.Jalen Washington is a junior who wants to teach people how to be comfortable in their own skin through modeling and performing on campus. Subcultures is a small group of people with the same interest or simulatiry in a large community. This organization is a subculture who enjoys displaying their own style as well as <a href="https://www.youtube.com/watch?v=nsE2Zmf5w8w&feature=youtu.be">PERFORMING</a> as different characters created by the president Jalen Washinton.   </p>
+  <ul>
+  
+    <img src="IMG_1746%20copy.jpg" alt="Be Who You Are" style="width;310px;height:740px;">
+  </ul>
+  <ul>
+  
+    <img src="IMG_1794.jpg"alt="Him Again" style="width;310px;height:740px;"> </ul>
+  <ul>
+    <img src="IMG_1717.jpg"alt="hw"style="width;310px;height:740px;"> </ul>
+  <ul>
+  <img src="IMG_1730.jpg"alt="hr" style="width;310px;height:740px;">
+</body>
+</html>
